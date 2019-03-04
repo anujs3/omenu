@@ -4,4 +4,4 @@ source env/foursquare.env
 source env/twilio.env
 source env/zomato.env
 
-python3 menu_checker.py
+python3 omenu.py

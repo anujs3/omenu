@@ -1,1 +1,1 @@
-web: python3 menu_checker.py
+web: python3 omenu.py
