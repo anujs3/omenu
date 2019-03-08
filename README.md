@@ -10,4 +10,4 @@ You can specify location by using the following format: {RESTAURANT} @ {CITY}, {
 
 ## How It Works
 
-This application is running on a Flask server and uses Twilio's Programmable SMS API to send messages directly to your phone.
+This application is running on a Flask server and uses Twilio's Programmable SMS API to send messages directly to your phone. All of it is deployed on Heroku.
