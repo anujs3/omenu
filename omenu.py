@@ -189,7 +189,7 @@ def is_too_large(message: str) -> bool:
 
 @app.route('/', methods=['GET'])
 def welcome():
-    return 'Welcome to Omenu: Your Personalized Menu Checker!'
+    return 'Welcome to Omenu: Your Personalized Menu Checker!\nText 415-360-MENU (415-360-6368) to get started.'
 
 
 @app.route('/sms', methods=['GET', 'POST'])
